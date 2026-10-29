@@ -1,0 +1,5 @@
+aiogram==3.13.1
+aiohttp
+aiosqlite
+google-api-python-client
+python-dotenv
